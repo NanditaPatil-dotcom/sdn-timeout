@@ -1,6 +1,11 @@
 # Python virtual environment
 sdn-env-py39/
 
+# SDN tools
+mininet/
+openflow/
+ryu/
+
 # Python
 __pycache__/
 *.py[cod]
@@ -41,3 +46,4 @@ Thumbs.db
 
 # Logs
 *.log
+
