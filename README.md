@@ -124,7 +124,7 @@ Expected output:
 * Ryu Controller (SDN control plane)
 * OpenFlow protocol
 * Open vSwitch
-* Wireshark / tcpdump (optional for validation)
+* iperf
 
 ---
 
